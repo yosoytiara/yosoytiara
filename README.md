@@ -1,4 +1,4 @@
-# yosoytiara
+# TIARA
 
 🦋 I’m currently learning Java
 <br>
