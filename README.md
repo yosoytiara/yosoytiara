@@ -2,7 +2,7 @@
 
 🦋 I’m currently learning Java
 <br>
-👩🏾‍💻 All of my projects are available at https://fastidious-starship-7d2bdf.netlify.app/
+👩🏾‍💻 All of my projects are available at https://tiara-evelyn.netlify.app
 <br>
 📫 How to reach me www.linkedin.com/in/tiara-dillard/
 <br>
