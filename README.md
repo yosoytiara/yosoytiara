@@ -1,6 +1,6 @@
 # TIARA
 
-Hi, I am a Front-end Developer based in New York City
+Hi, I am a Front-end Developer and Graphic Designer based in New York City
 
 🦋 I’m currently learning Java
 <br>
