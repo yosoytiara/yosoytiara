@@ -2,7 +2,7 @@
 
 Hi, I am a Front-end Developer and Graphic Designer based in New York City
 
-🦋 I’m currently learning Java
+🦋 I’m currently learning IOS development 
 <br>
 👩🏾‍💻 All of my projects are available at https://tiara-evelyn.netlify.app
 <br>
