@@ -1,7 +1,7 @@
 <h1 >Hi, I'm Tiara Dillard</h1>
 <h3>A passionate software engineer and front-end developer</h3>
 
-- ⚡ Fun fact **I love all things fashion and art**
+- ⚡ Fun fact I love all things fashion and art
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
