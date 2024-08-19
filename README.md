@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Tiara Dillard</h1>
-<h3 align="center">A passionate software engineer and front-end developer</h3>
+<h1 >Hi, I'm Tiara Dillard</h1>
+<h3>A passionate software engineer and front-end developer</h3>
 
 - ⚡ Fun fact **I love all things fashion and art**
 
