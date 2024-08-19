@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tiaraa</h1>
+<h1 align="center">Hi, I'm Tiara Dillard</h1>
 <h3 align="center">A passionate software engineer and front-end developer</h3>
 
 - ⚡ Fun fact **I love all things fashion and art**
