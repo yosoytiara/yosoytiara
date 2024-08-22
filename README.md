@@ -1,6 +1,6 @@
 <h1 >Hi, I'm Tiara Dillard</h1>
-<h3>A passionate software engineer and front-end developer</h3>
-⚡ Fun fact I love all things fashion and art
+<h4>A passionate software engineer and front-end developer</h4>
+ When I'm not coding, I am most likely sewing🪡, reading, or at an art exhibit!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
