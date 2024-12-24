@@ -9,7 +9,7 @@
 </p>
 
 <h5 align="left">Languages and Tools:</h5>
- <img src="https://skillicons.dev/icons?i=html,css,js,react,java,&theme=light" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,java,ts,&theme=light" />
   <img src="https://skillicons.dev/icons?i=git,vscode,figma,ps&theme=light" />
  
 
